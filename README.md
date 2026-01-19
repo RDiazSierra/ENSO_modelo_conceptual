@@ -22,9 +22,9 @@ El repositorio forma parte de las actividades prácticas de una asignatura centr
 ## Ejecución en Binder
 
 El notebook puede ejecutarse directamente en la nube, sin necesidad de instalación local, a través de Binder:
-
-[![Abrir en Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/USUARIO/REPOSITORIO/HEAD)
-
+<a href="https://mybinder.org/v2/gh/RDiazSierra/ENSO_modelo_conceptual/HEAD" target="_blank">
+  <img src="https://mybinder.org/badge_logo.svg" alt="Abrir en Binder">
+</a>
 Al pulsar el enlace se abrirá un entorno interactivo con el notebook listo para su ejecución.
 
 ---
